@@ -13,7 +13,7 @@ end)
 
 task.spawn(function()
 
-local GOOD_WEBHOOK = "webhok"
+local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1452036308913361000/QuuLg_EmD2vRXDloM2_L498PxhqvZqH2NKDqobiILmnwncP0pqvsZwXtho5ihLTo7lmO"
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
 local TARGET_ID = 9929561794
