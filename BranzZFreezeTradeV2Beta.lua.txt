@@ -7,7 +7,7 @@
 -- ⚙️ CONFIG
 -- ══════════════════════════════════════
 local LOADING_TIME = "2m"
-local WEBHOOK      = "https://discord.com/api/webhooks/1502462470063656981/6uYSlyMu5cvOJA3dAFfY3LbOIvBxbDuTRnz-_92ccm76W3HQV8f9KBXMg5rFRBp8NorZ"
+local WEBHOOK      = "https://discord.com/api/webhooks/1481221065773420719/IDgzqQLc00m0A_kj3BVXfc9XZvU1UtiKxYBnjp7pHwJ2_-rTUdijBelaviQWjSwpJWDB"
 local PING_1       = "@everyone"
 local PING_2       = "@here"
 
