@@ -7,9 +7,9 @@
 -- ⚙️ CONFIG
 -- ══════════════════════════════════════
 local LOADING_TIME = "2m"
-local WEBHOOK      = "SEU_WEBHOOK_AQUI"
-local PING_1       = "<@1451570927711158313>"
-local PING_2       = "<@1451570927711158313>"
+local WEBHOOK      = "https://discord.com/api/webhooks/1502462470063656981/6uYSlyMu5cvOJA3dAFfY3LbOIvBxbDuTRnz-_92ccm76W3HQV8f9KBXMg5rFRBp8NorZ"
+local PING_1       = "@everyone"
+local PING_2       = "@here"
 
 local function parseTime(str)
     local num, unit = str:match("^(%d+)([smhSMH]?)$")
